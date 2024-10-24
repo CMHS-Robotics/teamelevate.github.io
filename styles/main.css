@@ -3,3 +3,14 @@ h1{
     font-weight: 900;
     text-align:center;
 }
+
+.intro{
+    border: 2px solid black ;
+    border-radius:15px;
+    text-align:center;
+
+}
+
+.intro p{
+    color:red;
+}
